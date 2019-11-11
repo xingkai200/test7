@@ -1,2 +1,4 @@
 # test7
-red do a
+
+blue do b
+
